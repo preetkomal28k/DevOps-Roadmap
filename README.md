@@ -1,6 +1,6 @@
 # 🚀 DevOps and Cloud Engineering Learning Path 2024
 
->Note: If you found the content helpful, consider giving the repository a star ⭐
+>Note: If you found the content helpful, consider giving the repository a star 
 
 ## 🔗 Join our community 👇
 
